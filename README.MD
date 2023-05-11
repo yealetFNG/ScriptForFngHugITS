@@ -1,0 +1,2 @@
+- By using the scripts here you agree to the following;
+- - I have not updated this since 2020 and I have a 15% chance it still works, I do not condone exploiting and any trouble you get in by using these scripts are not my fault.
